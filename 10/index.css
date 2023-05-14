@@ -1,0 +1,40 @@
+.first-wrapper {
+  background-color: azure;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  font-style: italic;
+  padding: 15px;
+}
+
+img.first-img {
+  display: block;
+  margin: 17px auto;
+}
+
+button {
+  height: 50px;
+  width: 200px;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.btn-wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.second-wrapper {
+  background-color: blueviolet;
+}
+
+.third-wrapper {
+  background-color: burlywood;
+}
