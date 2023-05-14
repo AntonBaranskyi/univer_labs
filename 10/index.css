@@ -11,6 +11,11 @@ p {
   padding: 15px;
 }
 
+p::first-letter {
+  font-size: 130%;
+  color: red;
+}
+
 img.first-img {
   display: block;
   margin: 17px auto;
